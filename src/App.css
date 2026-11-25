@@ -1,0 +1,25 @@
+body {
+  background-color: lightyellow;
+  font-family: Arial;
+}
+
+div {
+  margin: 20px;
+  text-align: left;
+}
+
+h1 {
+  color: darkred;
+}
+
+h2 {
+  color: brown;
+}
+
+h3 {
+  color: darkgreen;
+}
+
+p {
+  font-size: 18px;
+}
